@@ -3,7 +3,10 @@ import hashlib
 import time
 import requests
 import json
-
+'''
+调用北京贝叶斯科技AI舌诊接口成功示例。
+详细使用教程请访问网址：http://www.bayescience.com/bes-project/login.html
+'''
 
 def Md5(res):
     print(res)
